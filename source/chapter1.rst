@@ -46,15 +46,17 @@
 例えば下図は“*The Plant
 Cell*”という学術誌の投稿前の確認ポイントですが、正しく統計的な処理を行い、その結果をきちんと掲載することが要求されています。
 
-.. image:: _static/images/chapter1/the_plant_cell_checklist.png?raw=true
+.. image:: _static/images/chapter1/the_plant_cell_checklist.png
    :height: 750px
    :align: center
+
 
 学術誌にも様々なものがありますが、きちんと査読される学術誌は間違いなく正しい統計的なデータ処理が要求されます。
 
 .. image:: _static/images/chapter1/journal_list.png
    :height: 300px
    :align: center
+
 
 皆さんは自然科学の研究を今後進めていくことになるので、そういった意味で統計学の扱い方は、
 
@@ -72,7 +74,7 @@ Cell*”という学術誌の投稿前の確認ポイントですが、正しく
 相関や回帰の概念の発展
 ~~~~~~~~~~~~~~~~~~~~~~
 
-.. image:: _static/images/chapter1/Francis_Galton_1850s.png
+.. image:: _static/images/chapter1/Francis_Galton_1850s.jpg
    :height: 200px
    :align: center
 
@@ -83,7 +85,7 @@ Cell*”という学術誌の投稿前の確認ポイントですが、正しく
 実験計画法や分散分析の開発
 ~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-.. image:: _static/images/chapter1/Youngronaldfisher2.png
+.. image:: _static/images/chapter1/Youngronaldfisher2.jpg
    :height: 200px
    :align: center
 
