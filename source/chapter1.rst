@@ -13,7 +13,7 @@
 
 農学や生物学といった私たちの学問分野においては、観察や計測、実験、調査などを通じて得られたデータを用いて、興味のある対象について法則性を見つけようとする際に必要となる学問です。
 
-.. image:: _static/images/chapter1/first_example.png
+.. figure:: _static/images/chapter1/first_example.png
    :height: 150px
    :align: center
 
@@ -46,21 +46,15 @@
 例えば下図は“*The Plant
 Cell*”という学術誌の投稿前の確認ポイントですが、正しく統計的な処理を行い、その結果をきちんと掲載することが要求されています。
 
-.. image:: _static/images/chapter1/the_plant_cell_checklist.png
+.. figure:: _static/images/chapter1/the_plant_cell_checklist.png
    :height: 750px
    :align: center
 
-.. raw:: html
-   <br><br>
-
 学術誌にも様々なものがありますが、きちんと査読される学術誌は間違いなく正しい統計的なデータ処理が要求されます。
 
-.. image:: _static/images/chapter1/journal_list.png
+.. figure:: _static/images/chapter1/journal_list.png
    :height: 300px
    :align: center
-
-.. raw:: html
-   <br><br>
 
 皆さんは自然科学の研究を今後進めていくことになるので、そういった意味で統計学の扱い方は、
 
@@ -78,7 +72,7 @@ Cell*”という学術誌の投稿前の確認ポイントですが、正しく
 相関や回帰の概念の発展
 ~~~~~~~~~~~~~~~~~~~~~~
 
-.. image:: _static/images/chapter1/Francis_Galton_1850s.jpg
+.. figure:: _static/images/chapter1/Francis_Galton_1850s.jpg
    :height: 200px
    :align: center
 
@@ -89,7 +83,7 @@ Cell*”という学術誌の投稿前の確認ポイントですが、正しく
 実験計画法や分散分析の開発
 ~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-.. image:: _static/images/chapter1/Youngronaldfisher2.jpg
+.. figure:: _static/images/chapter1/Youngronaldfisher2.jpg
    :height: 200px
    :align: center
 
@@ -102,7 +96,7 @@ Cell*”という学術誌の投稿前の確認ポイントですが、正しく
 
 また、問題解決だけでなく、これまで正しいとされてきたことを検証するためにも統計手法は使用されてきました。
 
-.. image:: _static/images/chapter1/mendel.png
+.. figure:: _static/images/chapter1/mendel.png
    :height: 200px
    :align: center
 
