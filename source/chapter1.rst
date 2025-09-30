@@ -15,7 +15,6 @@
 
 .. figure:: _static/images/chapter1/first_example.png
    :height: 150px
-   :align: center
 
 例えば、肥料の効果を知るために、ある作物に肥料を与えた場合と与えなかった場合の草丈を10個体ずつ測定したとします。このシンプルな実験であっても、
 
@@ -47,14 +46,12 @@
 Cell*”という学術誌の投稿前の確認ポイントですが、正しく統計的な処理を行い、その結果をきちんと掲載することが要求されています。
 
 .. figure:: _static/images/chapter1/the_plant_cell_checklist.png
-   :height: 750px
-   :align: center
+   :height: 700px
 
 学術誌にも様々なものがありますが、きちんと査読される学術誌は間違いなく正しい統計的なデータ処理が要求されます。
 
 .. figure:: _static/images/chapter1/journal_list.png
    :height: 300px
-   :align: center
 
 皆さんは自然科学の研究を今後進めていくことになるので、そういった意味で統計学の扱い方は、
 
@@ -74,7 +71,6 @@ Cell*”という学術誌の投稿前の確認ポイントですが、正しく
 
 .. figure:: _static/images/chapter1/Francis_Galton_1850s.jpg
    :height: 200px
-   :align: center
 
 例えば、フランシス・ゴルトン(チャールズ・ダーウィンの従弟)は相関や回帰といった概念を\ **遺伝学の研究**\ を行う中で適用し発展させました。
 
@@ -85,7 +81,6 @@ Cell*”という学術誌の投稿前の確認ポイントですが、正しく
 
 .. figure:: _static/images/chapter1/Youngronaldfisher2.jpg
    :height: 200px
-   :align: center
 
 集団遺伝学の創始者の一人であるロナルド・フィッシャーは\ **遺伝学や進化生物学の研究者**\ ですが、実験計画法の原理を開発し、また、分散分析に代表される今では誰もが扱う可能性のある統計手法の体系的なアプローチを開発しました。
 
@@ -98,7 +93,6 @@ Cell*”という学術誌の投稿前の確認ポイントですが、正しく
 
 .. figure:: _static/images/chapter1/mendel.png
    :height: 200px
-   :align: center
 
 例えば、前述したフィッシャーはメンデルの遺伝法則における実験データの統計的分析(:math:`\chi^2`\ 検定)を行って検証した結果、メンデルの実験結果が理論値に近すぎる(このような実験結果が偶然得られる確率は3万分の1以下)と計算し、不明確な個体を期待に沿うように分類したのでは？等と推測しています。
 
