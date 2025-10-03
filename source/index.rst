@@ -25,7 +25,7 @@ Rでの実習には.ipynbファイルをGoogle Colaboratoryで開いて行いま
    :numbered:
 
    chapter1
-   _static/colab_notebook/chapter2
+   notebooks/chapter2
 
 講義の進行に応じて随時ページを追加していきます。
 
