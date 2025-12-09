@@ -31,6 +31,7 @@ Rでの実習には.ipynbファイルをGoogle Colaboratoryで開いて行いま
    notebooks/chapter5
    notebooks/chapter6
    notebooks/chapter7
+   notebooks/chapter8
 
 講義の進行に応じて随時ページを追加していきます。
 
