@@ -25,16 +25,16 @@ Rでの実習には.ipynbファイルをGoogle Colaboratoryで開いて行いま
    :numbered:
 
    chapter1
-   notebooks/chapter2
-   notebooks/chapter3
-   notebooks/chapter4
-   notebooks/chapter5
-   notebooks/chapter6
-   notebooks/chapter7
-   notebooks/chapter8
-   notebooks/chapter9
-   notebooks/chapter10
-   notebooks/chapter11
+   .. notebooks/chapter2
+   .. notebooks/chapter3
+   .. notebooks/chapter4
+   .. notebooks/chapter5
+   .. notebooks/chapter6
+   .. notebooks/chapter7
+   .. notebooks/chapter8
+   .. notebooks/chapter9
+   .. notebooks/chapter10
+   .. notebooks/chapter11
    
 
 講義の進行に応じて随時ページを追加していきます。
